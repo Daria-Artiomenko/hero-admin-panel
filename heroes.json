@@ -1,0 +1,66 @@
+{
+  "heroes": [
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "48cc8c18-584c-441f-85ae-04f7aaa89d35",
+      "name": "Диана",
+      "description": "Видеть будущее",
+      "element": "fire"
+    },
+    {
+      "id": "34de8a62-6396-44da-b5e7-ab083a33e3e5",
+      "name": "Lora",
+      "description": "летать",
+      "element": "wind"
+    },
+    {
+      "id": "8a41e5e5-cd4c-47dc-a1fa-e8bdcb41bcbc",
+      "name": "harry",
+      "description": "sing",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
